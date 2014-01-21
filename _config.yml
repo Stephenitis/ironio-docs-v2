@@ -1,0 +1,8 @@
+---
+exclude: ['README.markdown']
+permalink: ':title'
+pygments: true
+safe: false
+title: 'Dev Center'
+redirects: yes
+relative_permalinks: true
